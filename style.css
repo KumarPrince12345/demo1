@@ -1,0 +1,49 @@
+h2{background-color: grey;
+   color:blueviolet
+   font-family: 'Baloo 2', cursive;
+}
+.one{
+    background-color: green;
+    color: red;
+}
+.blue{color: yellowgreen;
+}
+ul{background-color: teal;
+   color: white;
+}
+nav{
+margin: 10px;
+padding: 10px;
+border-style: dashed;
+border-color: brown;
+border-radius: 10px;
+}
+form{
+height: 300px;
+width: 300px; 
+}
+section{
+display: inline-block;
+height: 50vh;
+width: 50vw;
+background-color: red;
+}
+.containe{
+display: inline-block;
+height: 50vh;
+width: 50vw;
+max-width: 50vh;
+background-color: green;
+}
+footer{
+   background-color: black;
+   text-align: center;
+   text-transform: uppercase;
+}
+footer a{
+   text-decoration: none;
+}
+header nav ul li{  
+display: inline;
+margin: 10px;
+}
